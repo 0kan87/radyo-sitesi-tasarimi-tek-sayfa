@@ -1,0 +1,36 @@
+body{
+  background:url("images/1.jpg");
+  animation:image 10s infinite alternate;
+  -webkit-animation:image 10s infinite alternate;
+  -moz-animation:image 10s infinite alternate;
+}
+@keyframes image{
+  0%{
+    background:url("images/1.jpg");
+  }
+ 
+  25%{
+    background:url("images/2.jpg");
+  }
+ 
+  50%{
+    background:url("images/3.jpg");
+  }
+ 
+  75%{
+    background:url("images/4.jpg");
+  }
+ 
+  100%{
+    background:url("images/5.jpg");
+  }
+}
+
+.bosluk{
+  height:80px;
+}
+
+.transparan {
+  opacity : 0.8;
+  filter : alpha( Opacity=80 );
+}
