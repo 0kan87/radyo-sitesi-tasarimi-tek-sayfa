@@ -21,5 +21,5 @@ Tasarım bir betik boyutunda olmadığı için admin paneli mevcut değildir. Do
 
 Tasarımı aslında vakit buldukça geliştirmeyi düşünüyorum admin panel falan kodlayabilirim. Bu süreçte tasarımın daha çok gelişmesi adına tüm önerilere açığım yorumlarda belirtmeniz yeterli.
 
-<img class="size-full wp-image-6259" src="https://okandiyebiri.com/wp-content/uploads/2014/06/tek-sayfa-radyo-temasi_.png" alt="Radyo Sitesi Tasarımı Bootstrap" width="1349" height="939" />
+<img src="https://okandiyebiri.com/wp-content/uploads/2014/06/tek-sayfa-radyo-temasi_.png" alt="Radyo Sitesi Tasarımı Bootstrap" width="888" height="auto" />
 <p style="text-align: left;"><strong>NOT:</strong> Yorumlarda önereceğiniz her değişiklik dikkate alınacaktır. Bir radyo sitesinde <span style="text-decoration: underline;">neler olmalı</span> siz şekillendirin.</p>
