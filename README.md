@@ -1,4 +1,4 @@
-<h2><span style="color: #ff0000;">Boostrap Radyo Sitesi Teması</span></h2>
+<h2><span style="color: #ff0000;">Bootstrap Radyo Sitesi Teması</span></h2>
 Tasarımımız <a href="http://trbootstrap.com/css/" target="_blank" rel="nofollow">bootstrap</a> ile kodlanmış basit bir radyo tasarımıdır. Bu tür scripleri piyasada bulmak oldukça zor, olanlarda hiç bir zaman bizim istediğimiz gibi olmamıştır. Umarım bu <span style="color: #008000;"><strong>radyo sitesi tasarımı</strong></span> hoşunuza gider. Script şimdilik 8 ana kısımdan oluşuyor.
 <ul>
  	<li>Sohbet ve Radyo Alanı</li>
@@ -21,5 +21,5 @@ Tasarım bir betik boyutunda olmadığı için admin paneli mevcut değildir. Do
 
 Tasarımı aslında vakit buldukça geliştirmeyi düşünüyorum admin panel falan kodlayabilirim. Bu süreçte tasarımın daha çok gelişmesi adına tüm önerilere açığım yorumlarda belirtmeniz yeterli.
 
-<img class="size-full wp-image-6259" src="https://okandiyebiri.com/wp-content/uploads/2014/06/tek-sayfa-radyo-temasi_.png" alt="Radyo Sitesi Tasarımı Bootstrap" width="1349" height="939" /> Radyo Sitesi Tasarımı Bootstrap[/caption]
+<img class="size-full wp-image-6259" src="https://okandiyebiri.com/wp-content/uploads/2014/06/tek-sayfa-radyo-temasi_.png" alt="Radyo Sitesi Tasarımı Bootstrap" width="1349" height="939" />
 <p style="text-align: left;"><strong>NOT:</strong> Yorumlarda önereceğiniz her değişiklik dikkate alınacaktır. Bir radyo sitesinde <span style="text-decoration: underline;">neler olmalı</span> siz şekillendirin.</p>
